@@ -1,4 +1,4 @@
-# Neil Monzales <img src="https://custom-badge-counter.onrender.com/nljms" alt="nljms"/>
+# Neil Monzales [![nljms](https://custom-badge-counter.onrender.com/nljms)](https://custom-badge-counter.onrender.com/nljms)
 
 <!-- > *Work smart not hard.* -->
 
