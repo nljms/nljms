@@ -1,4 +1,4 @@
-# Neil Monzales ![nljms](https://custom-badge-counter.onrender.com/nljms)
+# Neil Monzales
 
 <!-- > *Work smart not hard.* -->
 
