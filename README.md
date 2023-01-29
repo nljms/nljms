@@ -1,4 +1,4 @@
-# Neil Monzales ![nljms](https://plankton-app-k9r9b.ondigitalocean.app/nljms)
+# Neil Monzales ![nljms](https://view-count.nljms.dev/nljms)
 
 <!-- > *Work smart not hard.* -->
 
