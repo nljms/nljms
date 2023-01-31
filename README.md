@@ -1,4 +1,4 @@
-# Neil Monzales ![nljms](https://view-count.nljms.dev/nljms)
+# Neil Monzales ![nljms](https://view-count.nljms.dev/github/profile/nljms?email=neiljames97@gmail.com)
 
 <!-- > *Work smart not hard.* -->
 
