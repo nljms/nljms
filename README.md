@@ -1,4 +1,4 @@
-# Neil Monzales ![nljms](https://view-count.nljms.dev/github/profile/nljms?email=neiljames97@gmail.com) ![codewars](https://www.codewars.com/users/nljms/badges/micro)
+# Neil Monzales ![nljms](https://view-count.nljms.dev/github/profile/nljms) ![codewars](https://www.codewars.com/users/nljms/badges/micro)
 
 <!-- > *Work smart not hard.* -->
 
