@@ -1,5 +1,5 @@
-# Neil Monzales ![nljms](https://view-count.nljms.dev/github/profile/nljms) ![codewars](https://www.codewars.com/users/nljms/badges/micro)
-
+# Neil Monzales ![codewars](https://www.codewars.com/users/nljms/badges/micro)
+<!-- ![nljms](https://view-count.nljms.dev/github/profile/nljms) -->
 <!-- > *Work smart not hard.* -->
 
 I'm a software engineer, which currently focuses on writing backend applications using NodeJS Typescript which runs on a serverless architecture. Learns emerging technologies and architecture that could make the work easier and faster
