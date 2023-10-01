@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love cats
 
-<!--Here's my Holopin Board:
+Here's my Holopin Board:
 <br/>
 <br/>
-[![@nljms's Holopin board](https://holopin.io/api/user/board?user=nljms)](https://holopin.io/@nljms) -->
+[![@nljms's Holopin board](https://holopin.io/api/user/board?user=nljms)](https://holopin.io/@nljms)
