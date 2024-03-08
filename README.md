@@ -3,6 +3,8 @@
 <!-- > *Work smart not hard.* -->
 What I wrote today will be forgotten by me tomorrow. 😃 (I'm trying to improve it, really).
 
+<img src="https://raw.githubusercontent.com/nljms/nljms/output/snake.svg" alt="Github contribution" />
+
 ## Here are my github stats
 ![Neil Monzales Github Stats](https://github-readme-stats.vercel.app/api?username=nljms)
 
